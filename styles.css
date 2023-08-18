@@ -1,0 +1,255 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+.front-view {
+  display: flex;
+  background-color: rgba(229, 84, 115, 0.10);
+  width: 100%;
+  height: 100%;
+  justify-content: space-around;
+}
+
+.front-view .flower-1 {
+  height: 800px;
+  margin-top: 140px;
+  margin-bottom: 0px;
+  
+
+}
+
+.intro {
+  padding-left: 210px;
+  margin-top: 180px;
+  margin-bottom: 140px;
+}
+
+ .intro-1 {
+  width: 708px;
+  color: #272727;
+  font-size: 80px;
+  margin-bottom: 32px;
+  
+}
+ .intro-2 {
+  color: rgba(39, 39, 39, 0.60);
+font-family: Lato;
+font-size: 18px;
+
+font-weight: 400;
+line-height: 30px;
+margin-bottom: 32px;
+  
+}
+
+.featured-title {
+  color: #272727;
+text-align: center;
+font-family: Lato;
+font-size: 40px;
+font-weight: 800;
+margin-top: 170px;
+margin-bottom: 24px;
+
+}
+.intro-3{
+  color: rgba(39, 39, 39, 0.60);
+  font-family: Lato;
+  font-size: 18px;
+  
+  font-weight: 400;
+  line-height: 30px;
+  margin-bottom: 32px;
+  text-align: center;
+  
+}
+.btn-primary{
+  padding: 20px 40px;
+  background-color: #E55473;
+  border-radius: 8px;
+  border: none;
+  font-weight: 700;
+  font-size: 20px;
+  color: #FFF;
+}
+ .betal-1{
+  width: 310px;
+height: 428px;
+   border-radius: 300px 300px 0px 0px;
+ background: rgba(167, 33, 98, 0.15);
+  
+background-size:464px 538px; 
+
+
+
+}
+.off{
+  color: #E55473;
+}
+.hot-deal{
+  color: #272727;
+
+font-size: 40px;
+
+font-weight: 800;
+
+}
+.intro-4{
+  color: rgba(39, 39, 39, 0.60);
+  font-family: Lato;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 30px;
+  margin-top: 24px;
+  margin-bottom: 25px;
+  
+}
+
+
+.sign-up{
+  padding: 20px 40px;
+  background-color: #E55473;
+  border-radius: 8px;
+  border: none;
+  font-weight: 700;
+  font-size: 20px;
+  color: #FFF;
+  
+}
+.sales-section{
+ display: flex; 
+ justify-content: space-around;
+ align-items: center;
+background-color:rgba(229, 84, 115, 0.05);
+width: 100%;
+height: 100%;
+margin-top: 130px;
+margin-bottom: 100px;
+}
+
+.sale-descp{
+padding-left: 300px;
+padding-bottom: 160px;
+padding-top: 200px;
+}
+.insta{
+  color: #272727;
+text-align: center;
+font-family: Lato;
+font-size: 40px;
+
+font-weight: 800;
+
+}
+.cent{
+  text-align: center;
+}
+.images-div{
+  display: flex;
+  gap: 10px;
+  justify-content: space-around;
+  margin-left: 130px;
+  margin-right: 130px;
+}
+.r-size{
+  width: 342px;
+height: 396px;
+
+}
+.get-late{
+  color: #272727;
+text-align: center;
+font-family: Lato;
+font-size: 40px;
+font-weight: 800;
+padding-top: 120px;
+margin-bottom: 30px;
+
+}
+.latest-deals{
+  margin-top: 100px;
+  background-image: url('Flower Asset/Rectangle 9.png');
+  
+  background-repeat: no-repeat;
+  
+  margin-left: 130px;
+  margin-right: 130px;
+}
+.email{
+  color: rgba(39, 39, 39, 0.60);
+
+font-family: Lato;
+font-size: 16px;
+font-weight: 400;
+display: flex;
+align-items: center;
+padding-left: 20px;
+
+
+}
+.box {
+  width: 700px;
+  height: 65px;
+  background-color:#FFF;
+  border: 2px solid white;
+  border-radius: 8px; 
+  
+   }
+   .input-box{
+    display: flex;
+    gap: 20px;
+    margin-left: 200px;
+    margin-right: 150px;
+    padding-bottom: 200px;
+    margin-top: 40px;
+    
+   }
+   .ftr{
+    text-align: center;
+font-family: Lato;
+padding-top: 128px;
+   }
+.last-sec{
+  background: #111010;
+  width: 1922px;
+height: 449px;
+
+}
+.it-is{
+  color: rgba(255, 255, 255, 0.90);
+text-align: center;
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+margin-top: 24px;
+}
+.footer-sec{
+  color: rgba(255, 255, 255, 0.40);
+text-align: center;
+font-family: Lato;
+font-size: 16px;
+margin-top: 32px;
+font-weight: 400;
+
+}
+.fl{
+  color: #E55473;
+  font-family: Lato;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: normal;
+}
+.sh{
+  color: #FFF;
+font-family: Lato;
+font-size: 48px;
+
+font-weight: 800;
+
+}
